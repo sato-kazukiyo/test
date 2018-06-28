@@ -1,1 +1,2 @@
 2018-06-28 17:33:32,809 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not available. Remote download required.
+2018-06-29 01:56:17,064 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
