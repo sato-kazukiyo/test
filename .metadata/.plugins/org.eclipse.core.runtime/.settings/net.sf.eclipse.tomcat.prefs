@@ -1,5 +1,6 @@
-contextsDir=C:/Users/nlinfo/Desktop/pleiades/tomcat/8/conf/Catalina/localhost
+computeSourcePath=true
+contextsDir=C\:/Users/nlinfo/Desktop/pleiades/tomcat/8/conf/Catalina/localhost
 eclipse.preferences.version=1
-tomcatConfigFile=C:/Users/nlinfo/Desktop/pleiades/tomcat/8/conf/server.xml
-tomcatDir=C:/Users/nlinfo/Desktop/pleiades/tomcat/8
+tomcatConfigFile=C\:/Users/nlinfo/Desktop/pleiades/tomcat/8/conf/server.xml
+tomcatDir=C\:/Users/nlinfo/Desktop/pleiades/tomcat/8
 tomcatVersion=tomcatV8
